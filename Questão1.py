@@ -1,3 +1,4 @@
+#QUESTÃO 1
 import bcrypt
 import secrets
  
