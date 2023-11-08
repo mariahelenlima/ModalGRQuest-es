@@ -1,3 +1,4 @@
+#QUESTÃO 3
 from datetime import datetime, timedelta
  
 def adesao(nome, dt_adm, salario, emprestimo):
